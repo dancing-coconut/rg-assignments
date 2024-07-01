@@ -6,5 +6,5 @@ A repository to hold all data and work from the PayPal RG Training Bootcamp
 - Git, GitHub work
 - HTML CSS work
 - IntelliJ Idea, VSCode setup
-
-
+- Core Java
+- JavaScript work
