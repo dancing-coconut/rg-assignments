@@ -1,0 +1,11 @@
+id,firstName,lastName,email,gender,contactNo,country,dob
+1,cust1,cust1,cust1@gmail.com,F,100,ABCDE,1-1-2000
+2,cust2,cust2,cust2@gmail.com,M,200,ABCDE,1-1-2000
+3,cust3,cust3,cust3@gmail.com,F,300,ABCDE,1-1-2000
+4,cust4,cust4,cust4@gmail.com,M,400,ABCDE,1-1-2000
+5,cust5,cust5,cust5@gmail.com,M,500,ABCDE,1-1-2000
+6,cust6,cust6,cust6@gmail.com,M,600,ABCDE,1-2-2002
+7,cust7,cust7,cust7@gmail.com,F,700,ABCDE,1-2-2002
+8,cust8,cust8,cust8@gmail.com,F,800,ABCDE,1-2-2002
+9,cust9,cust9,cust9@gmail.com,M,900,ABCDE,1-2-2002
+10,cust10,cust10,cust10@gmail.com,F,1000,ABCDE,1-2-2002
